@@ -1,0 +1,9 @@
+discord.py
+random
+asyncio
+json
+io
+time
+requests
+tkinter
+datetime
